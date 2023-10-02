@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
